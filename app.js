@@ -105,13 +105,6 @@ function reset()
     gameSeq =[];
     userSeq=[];
     level = 0;
-    // highscore();
+   
 }
 
-//  function highscore()
-//  {
-//     if(highscore >= level)
-//     {
-//    h2.innerText = `high Score for overall game is:${level}`;
-//     }
-//  }
